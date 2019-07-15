@@ -1,2 +1,0 @@
-poll ssl0.ovh.net with protocol IMAP
-        username "mail@scimetis.net" with password "XXXXXXXXXXXXXXXXX" is admin here fetchall ssl idle smtphost dovecot/24 lmtp
